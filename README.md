@@ -35,8 +35,6 @@
 ![jOOQ](https://img.shields.io/badge/-jOOQ-EE2222?style=flat-square&logo=jooq)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapi-initiative)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianPacifici&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [EU Patronus Social Network API](https://github.com/ChristianPacifici/eu-patronus-svc): A Kotlin-based social network backend with Spring Boot and jOOQ.
