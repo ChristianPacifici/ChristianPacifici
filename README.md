@@ -30,13 +30,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 ---
-
-## **📊 GitHub Stats**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianPacifici&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianPacifici&theme=radical" alt="GitHub Streak"/>
-</p>
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/christianpacifici">
