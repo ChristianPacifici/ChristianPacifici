@@ -22,7 +22,7 @@
       <circle cx="120" cy="100" r="70" />
     </clipPath>
   </defs>
-  <image href="https://github.com/ChristianPacifici/ChristianPacifici/blob/main/Me.png" x="50" y="30" width="140" height="140" clip-path="url(#circleClip)" />
+  <image href="https://raw.githubusercontent.com/ChristianPacifici/ChristianPacifici/739601095240f3632ef8ce06242cb2605704e9e9/Me.png" x="50" y="30" width="140" height="140" clip-path="url(#circleClip)" />
 
   <!-- Name -->
   <text x="250" y="120" font-family="Arial" font-size="40" fill="#00ffff" font-weight="bold" text-shadow="0 0 10px #00ffff">
