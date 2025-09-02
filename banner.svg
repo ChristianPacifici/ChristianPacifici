@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#gradient)" />
+
+  <!-- Circuit-like pattern -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="100%" stop-color="#0056b3" />
+    </linearGradient>
+    <pattern id="circuitPattern" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M0 0 L50 0 L50 50 L0 50 Z" fill="none" stroke="#00ffff" stroke-width="0.5" stroke-opacity="0.3" />
+      <path d="M0 25 L50 25" stroke="#00ffff" stroke-width="0.5" stroke-opacity="0.3" />
+      <path d="M25 0 L25 50" stroke="#00ffff" stroke-width="0.5" stroke-opacity="0.3" />
+    </pattern>
+  </defs>
+  <rect width="800" height="200" fill="url(#circuitPattern)" />
+
+  <!-- Profile Image -->
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="120" cy="100" r="70" />
+    </clipPath>
+  </defs>
+  <image href="Me.png" x="50" y="30" width="140" height="140" clip-path="url(#circleClip)" />
+
+  <!-- Name -->
+  <text x="250" y="120" font-family="Arial" font-size="40" fill="#00ffff" font-weight="bold" text-shadow="0 0 10px #00ffff">
+    Christian Pacifici
+  </text>
+</svg>
