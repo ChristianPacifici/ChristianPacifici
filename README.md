@@ -11,6 +11,7 @@
 ### 🌟 Featured Projects
 - [EU Patronus Social Network API](https://github.com/ChristianPacifici/eu-patronus-svc): A Kotlin-based social network backend with Spring Boot and jOOQ.
 - [Graph Manager svc](https://github.com/ChristianPacifici/graph-manager-svc): A Kotlin-based API Microservice to manage a graph with Spring Boot and jOOQ. Can be used for logistics
+- [Ferentum-blockchain](https://github.com/ChristianPacifici/ferentum-blockchain): A simple blockchain project in GO  
 ---
 
 ## **🛠️ Technologies & Tools**
