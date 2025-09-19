@@ -8,8 +8,9 @@ Feel free to check out my repositories, steal some ideas, or just say hi! Let’
 
 
 ---
-### 👀 Interested in : Code, Cloud Computing, Machine Learning
-### 🌱 Currently Learning : Machine Learning, Artificial Intelligence, Robotics
+### 👀 Interested in : Code, Cloud Computing
+### 🌱 Currently Learning : BlockChain, Machine Learning and AI
+###     Dreaming learning about: Robotics, Bioinformatics
 ---
 ### 🌟 Featured Projects
 - [EU Patronus Social Network API](https://github.com/ChristianPacifici/eu-patronus-svc): A Kotlin-based social network backend with Spring Boot and jOOQ.
