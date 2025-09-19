@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Christian Pacifici
 
 A curious mind who loves turning ideas into something tangible. 
-Whether it’s tinkering with new tech, building something useful, or just automating the boring stuff, I’m all about making things work—and occasionally breaking them just to see what happens (not in production, of course).
+Whether it’s tinkering with new tech, building something useful, or just automating the boring stuff, I’m all about making things work.. and occasionally breaking them just to see what happens (not in production, of course).
 When I’m not coding, you might find me reading a book, sipping on a good cup of coffee, or thinking about the next project, or changing diapers.
 I believe in writing clean, simple code and learning something new every day.
 Feel free to check out my repositories, steal some ideas, or just say hi! Let’s build something cool together. 🚀
