@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ChristianPacifici/ChristianPacifici/wave.gif" width="30px"> Hi there, I'm Christian Pacifici
+# Hi there, I'm Christian Pacifici
 
 A curious mind who loves turning ideas into something tangible. 
 Whether it’s tinkering with new tech, building something useful, or just automating the boring stuff, I’m all about making things work.. and occasionally breaking them just to see what happens (not in production, of course).
