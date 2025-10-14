@@ -17,7 +17,7 @@ Feel free to check out my repositories, steal some ideas, or just say hi! Let’
 - [Graph Manager svc](https://github.com/ChristianPacifici/graph-manager-svc): A Kotlin-based API Microservice to manage a graph with Spring Boot and jOOQ. Can be used for logistics
 - [Ferentum-blockchain](https://github.com/ChristianPacifici/ferentum-blockchain): A simple blockchain project in GO
 - [Costanza JWT Token Explorer](https://github.com/ChristianPacifici/costanza-jwt-token-explorer): A JWT token explorer with nodeJS backend and React frontend
-- [Go Math](https://github.com/ChristianPacifici/go-math): A collection of mathematical functions like *Discrete Fourier Transform* or *Fast Fourier Transform*
+- [Go Math](https://github.com/ChristianPacifici/go-math): A GO based collection of mathematical functions like *Discrete Fourier Transform* or *Fast Fourier Transform*
 ---
 
 ## **🛠️ Technologies & Tools**
